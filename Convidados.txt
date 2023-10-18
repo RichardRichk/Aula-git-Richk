@@ -1,1 +1,4 @@
-Eu
+
+Um guia para você clonar um diretório ou um arquivo específico de um repositório do GITHUB.
+
+https://carlos-augusto-roque.medium.com/clonagem-de-reposit%C3%B3rio-no-github-como-clonar-apenas-uma-pasta-ou-um-arquivo-de-um-reposit%C3%B3rio-9baaad5ea3d8
